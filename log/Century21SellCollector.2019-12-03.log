@@ -1,0 +1,134 @@
+2019-12-03 14:51:18 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline main: - Could not connect to broker URL: tcp://localhost:61616. Reason: java.net.ConnectException: Connection refused (Connection refused)
+javax.jms.JMSException: Could not connect to broker URL: tcp://localhost:61616. Reason: java.net.ConnectException: Connection refused (Connection refused)
+	at org.apache.activemq.util.JMSExceptionSupport.create(JMSExceptionSupport.java:36)
+	at org.apache.activemq.ActiveMQConnectionFactory.createActiveMQConnection(ActiveMQConnectionFactory.java:374)
+	at org.apache.activemq.ActiveMQConnectionFactory.createActiveMQConnection(ActiveMQConnectionFactory.java:304)
+	at org.apache.activemq.ActiveMQConnectionFactory.createConnection(ActiveMQConnectionFactory.java:244)
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.init(ActiveMQPipeline.java:27)
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.<init>(ActiveMQPipeline.java:42)
+	at com.house365.collector.century21.sell.Century21SellLatestLauncher.main(Century21SellLatestLauncher.java:26)
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.activemq.transport.tcp.TcpTransport.connect(TcpTransport.java:525)
+	at org.apache.activemq.transport.tcp.TcpTransport.doStart(TcpTransport.java:488)
+	at org.apache.activemq.util.ServiceSupport.start(ServiceSupport.java:55)
+	at org.apache.activemq.transport.AbstractInactivityMonitor.start(AbstractInactivityMonitor.java:169)
+	at org.apache.activemq.transport.InactivityMonitor.start(InactivityMonitor.java:52)
+	at org.apache.activemq.transport.TransportFilter.start(TransportFilter.java:64)
+	at org.apache.activemq.transport.WireFormatNegotiator.start(WireFormatNegotiator.java:72)
+	at org.apache.activemq.transport.TransportFilter.start(TransportFilter.java:64)
+	at org.apache.activemq.transport.TransportFilter.start(TransportFilter.java:64)
+	at org.apache.activemq.ActiveMQConnectionFactory.createActiveMQConnection(ActiveMQConnectionFactory.java:354)
+	... 5 common frames omitted
+2019-12-03 14:51:18  INFO us.codecraft.webmagic.Spider main: - Spider nj.c21.com.cn started!
+2019-12-03 14:51:25  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-1: - downloading page success https://nj.c21.com.cn/ershoufang/esf/pg1
+2019-12-03 14:51:26  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-2: - downloading page success https://nj.c21.com.cn/ershoufang/103107109697.html
+2019-12-03 14:51:26  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-7: - downloading page success https://nj.c21.com.cn/ershoufang/103107138293.html
+2019-12-03 14:51:26  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-4: - downloading page success https://nj.c21.com.cn/ershoufang/103107124911.html
+2019-12-03 14:51:26  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-3: - downloading page success https://nj.c21.com.cn/ershoufang/103107122378.html
+2019-12-03 14:51:26  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-9: - downloading page success https://nj.c21.com.cn/ershoufang/103107144402.html
+2019-12-03 14:51:26  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-8: - downloading page success https://nj.c21.com.cn/ershoufang/103107143316.html
+2019-12-03 14:51:26 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-2: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-12-03 14:51:26 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-4: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-12-03 14:51:26 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-7: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-12-03 14:51:26 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-3: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-12-03 14:51:26 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-8: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-12-03 14:51:26 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-9: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-12-03 14:51:26  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-6: - downloading page success https://nj.c21.com.cn/ershoufang/103107133799.html
+2019-12-03 14:51:27 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-6: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-12-03 14:51:27  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-5: - downloading page success https://nj.c21.com.cn/ershoufang/103107128032.html
+2019-12-03 14:51:27 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-5: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-12-03 14:51:28  INFO us.codecraft.webmagic.Spider main: - Spider nj.c21.com.cn closed! 9 pages downloaded.

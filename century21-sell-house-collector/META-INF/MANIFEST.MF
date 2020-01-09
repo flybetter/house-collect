@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.house365.collector.century21.sell.Century21SellLatestL
+ auncher
+

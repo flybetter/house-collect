@@ -1,0 +1,374 @@
+2019-11-21 09:09:04  INFO us.codecraft.webmagic.Spider main: - Spider nj.lianjia.com started!
+2019-11-21 09:09:05  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-1: - downloading page success https://nj.lianjia.com/ershoufang/pg1co32/
+2019-11-21 09:09:07  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-16: - downloading page success https://nj.lianjia.com/ershoufang/103107010717.html
+2019-11-21 09:09:07  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-18: - downloading page success https://nj.lianjia.com/ershoufang/103107010270.html
+2019-11-21 09:09:07  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-19: - downloading page success https://nj.lianjia.com/ershoufang/103107009986.html
+2019-11-21 09:09:07  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-3: - downloading page success https://nj.lianjia.com/ershoufang/103107012081.html
+2019-11-21 09:09:07  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-20: - downloading page success https://nj.lianjia.com/ershoufang/103107009973.html
+2019-11-21 09:09:07  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-9: - downloading page success https://nj.lianjia.com/ershoufang/103107011617.html
+2019-11-21 09:09:07  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-8: - downloading page success https://nj.lianjia.com/ershoufang/103107011669.html
+2019-11-21 09:09:07  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-1: - downloading page success https://nj.lianjia.com/ershoufang/103107009699.html
+2019-11-21 09:09:07  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-17: - downloading page success https://nj.lianjia.com/ershoufang/103107010463.html
+2019-11-21 09:09:07  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-6: - downloading page success https://nj.lianjia.com/ershoufang/103107011971.html
+2019-11-21 09:09:07  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-14: - downloading page success https://nj.lianjia.com/ershoufang/103107010910.html
+2019-11-21 09:09:07  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-2: - downloading page success https://nj.lianjia.com/ershoufang/103107012112.html
+2019-11-21 09:09:07  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-5: - downloading page success https://nj.lianjia.com/ershoufang/103107011983.html
+2019-11-21 09:09:07  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-12: - downloading page success https://nj.lianjia.com/ershoufang/103107011223.html
+2019-11-21 09:09:07  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-10: - downloading page success https://nj.lianjia.com/ershoufang/103107011514.html
+2019-11-21 09:09:07  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-7: - downloading page success https://nj.lianjia.com/ershoufang/103107011830.html
+2019-11-21 09:09:07  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-4: - downloading page success https://nj.lianjia.com/ershoufang/103107012040.html
+2019-11-21 09:09:07  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-15: - downloading page success https://nj.lianjia.com/ershoufang/103107010720.html
+2019-11-21 09:09:07  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-11: - downloading page success https://nj.lianjia.com/ershoufang/103107011384.html
+2019-11-21 09:09:07  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-13: - downloading page success https://nj.lianjia.com/ershoufang/103107011075.html
+2019-11-21 09:09:09  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-3: - downloading page success https://nj.lianjia.com/ershoufang/pg2co32/
+2019-11-21 09:09:09  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-18: - downloading page success https://nj.lianjia.com/ershoufang/103107009334.html
+2019-11-21 09:09:09  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-17: - downloading page success https://nj.lianjia.com/ershoufang/103107008867.html
+2019-11-21 09:09:09  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-1: - downloading page success https://nj.lianjia.com/ershoufang/103107008344.html
+2019-11-21 09:09:09  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-19: - downloading page success https://nj.lianjia.com/ershoufang/103107008804.html
+2019-11-21 09:09:09  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-15: - downloading page success https://nj.lianjia.com/ershoufang/103107009565.html
+2019-11-21 09:09:10  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-2: - downloading page success https://nj.lianjia.com/ershoufang/103107009625.html
+2019-11-21 09:09:10  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-5: - downloading page success https://nj.lianjia.com/ershoufang/103107009571.html
+2019-11-21 09:09:10  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-14: - downloading page success https://nj.lianjia.com/ershoufang/103107008669.html
+2019-11-21 09:09:10  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-4: - downloading page success https://nj.lianjia.com/ershoufang/103107008652.html
+2019-11-21 09:09:10  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-16: - downloading page success https://nj.lianjia.com/ershoufang/103107009416.html
+2019-11-21 09:09:11  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-8: - downloading page success https://nj.lianjia.com/ershoufang/103107006951.html
+2019-11-21 09:09:11  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-11: - downloading page success https://nj.lianjia.com/ershoufang/103107007885.html
+2019-11-21 09:09:11  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-10: - downloading page success https://nj.lianjia.com/ershoufang/103107006610.html
+2019-11-21 09:09:11  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-12: - downloading page success https://nj.lianjia.com/ershoufang/103107006921.html
+2019-11-21 09:09:11  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-6: - downloading page success https://nj.lianjia.com/ershoufang/103107006997.html
+2019-11-21 09:09:11  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-20: - downloading page success https://nj.lianjia.com/ershoufang/103107007826.html
+2019-11-21 09:09:11  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-3: - downloading page success https://nj.lianjia.com/ershoufang/103107006537.html
+2019-11-21 09:09:11  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-7: - downloading page success https://nj.lianjia.com/ershoufang/103107008045.html
+2019-11-21 09:09:11  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-18: - downloading page success https://nj.lianjia.com/ershoufang/103107005995.html
+2019-11-21 09:09:11  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-13: - downloading page success https://nj.lianjia.com/ershoufang/103107007020.html
+2019-11-21 09:09:11  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-9: - downloading page success https://nj.lianjia.com/ershoufang/103107006704.html
+2019-11-21 09:09:11  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-1: - downloading page success https://nj.lianjia.com/ershoufang/103107005609.html
+2019-11-21 09:09:11  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-19: - downloading page success https://nj.lianjia.com/ershoufang/103107005582.html
+2019-11-21 09:09:11  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-17: - downloading page success https://nj.lianjia.com/ershoufang/103107005897.html
+2019-11-21 09:09:11  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-15: - downloading page success https://nj.lianjia.com/ershoufang/103107005321.html
+2019-11-21 09:09:11  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-2: - downloading page success https://nj.lianjia.com/ershoufang/103107005115.html
+2019-11-21 09:09:11  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-14: - downloading page success https://nj.lianjia.com/ershoufang/103107005060.html
+2019-11-21 09:09:11  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-4: - downloading page success https://nj.lianjia.com/ershoufang/103107004877.html
+2019-11-21 09:09:12  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-5: - downloading page success https://nj.lianjia.com/ershoufang/103107004775.html
+2019-11-21 09:09:12  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-16: - downloading page success https://nj.lianjia.com/ershoufang/103107004707.html
+2019-11-21 09:09:13  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-18: - downloading page success https://nj.lianjia.com/ershoufang/103107003820.html
+2019-11-21 09:09:13  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-11: - downloading page success https://nj.lianjia.com/ershoufang/103107004622.html
+2019-11-21 09:09:13  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-12: - downloading page success https://nj.lianjia.com/ershoufang/103107004326.html
+2019-11-21 09:09:13  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-13: - downloading page success https://nj.lianjia.com/ershoufang/103107003733.html
+2019-11-21 09:09:13  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-20: - downloading page success https://nj.lianjia.com/ershoufang/103107004102.html
+2019-11-21 09:09:13  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-7: - downloading page success https://nj.lianjia.com/ershoufang/103107003865.html
+2019-11-21 09:09:13  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-10: - downloading page success https://nj.lianjia.com/ershoufang/103107004342.html
+2019-11-21 09:09:13  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-3: - downloading page success https://nj.lianjia.com/ershoufang/103107003968.html
+2019-11-21 09:09:13  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-9: - downloading page success https://nj.lianjia.com/ershoufang/pg3co32/
+2019-11-21 09:09:13  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-8: - downloading page success https://nj.lianjia.com/ershoufang/103107004579.html
+2019-11-21 09:09:13  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-6: - downloading page success https://nj.lianjia.com/ershoufang/103107004193.html
+2019-11-21 09:09:15  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-16: - downloading page success https://nj.lianjia.com/ershoufang/103107002470.html
+2019-11-21 09:09:15  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-13: - downloading page success https://nj.lianjia.com/ershoufang/103107002044.html
+2019-11-21 09:09:15  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-1: - downloading page success https://nj.lianjia.com/ershoufang/103107003569.html
+2019-11-21 09:09:15  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-7: - downloading page success https://nj.lianjia.com/ershoufang/103107001907.html
+2019-11-21 09:09:15  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-15: - downloading page success https://nj.lianjia.com/ershoufang/103107003111.html
+2019-11-21 09:09:15  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-4: - downloading page success https://nj.lianjia.com/ershoufang/103107002694.html
+2019-11-21 09:09:15  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-20: - downloading page success https://nj.lianjia.com/ershoufang/103107001921.html
+2019-11-21 09:09:15  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-9: - downloading page success https://nj.lianjia.com/ershoufang/pg4co32/
+2019-11-21 09:09:15  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-5: - downloading page success https://nj.lianjia.com/ershoufang/103107002650.html
+2019-11-21 09:09:15  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-17: - downloading page success https://nj.lianjia.com/ershoufang/103107003121.html
+2019-11-21 09:09:15  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-14: - downloading page success https://nj.lianjia.com/ershoufang/103107002750.html
+2019-11-21 09:09:15  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-12: - downloading page success https://nj.lianjia.com/ershoufang/103107002083.html
+2019-11-21 09:09:15  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-18: - downloading page success https://nj.lianjia.com/ershoufang/103107002259.html
+2019-11-21 09:09:15  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-19: - downloading page success https://nj.lianjia.com/ershoufang/103107003303.html
+2019-11-21 09:09:15  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-2: - downloading page success https://nj.lianjia.com/ershoufang/103107002773.html
+2019-11-21 09:09:15  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-11: - downloading page success https://nj.lianjia.com/ershoufang/103107002238.html
+2019-11-21 09:09:15  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-3: - downloading page success https://nj.lianjia.com/ershoufang/103107001727.html
+2019-11-21 09:09:15  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-10: - downloading page success https://nj.lianjia.com/ershoufang/103107001758.html
+2019-11-21 09:09:15  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-8: - downloading page success https://nj.lianjia.com/ershoufang/103107001690.html
+2019-11-21 09:09:16  INFO us.codecraft.webmagic.Spider main: - Spider nj.lianjia.com closed! 82 pages downloaded.
+2019-11-21 10:50:12 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline main: - Could not connect to broker URL: tcp://localhost:61616. Reason: java.net.ConnectException: Connection refused (Connection refused)
+javax.jms.JMSException: Could not connect to broker URL: tcp://localhost:61616. Reason: java.net.ConnectException: Connection refused (Connection refused)
+	at org.apache.activemq.util.JMSExceptionSupport.create(JMSExceptionSupport.java:36)
+	at org.apache.activemq.ActiveMQConnectionFactory.createActiveMQConnection(ActiveMQConnectionFactory.java:374)
+	at org.apache.activemq.ActiveMQConnectionFactory.createActiveMQConnection(ActiveMQConnectionFactory.java:304)
+	at org.apache.activemq.ActiveMQConnectionFactory.createConnection(ActiveMQConnectionFactory.java:244)
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.init(ActiveMQPipeline.java:27)
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.<init>(ActiveMQPipeline.java:42)
+	at com.house365.collector.lianjia.sell.LianjiaSellLauncher.increaseCollect(LianjiaSellLauncher.java:39)
+	at com.house365.collector.lianjia.sell.LianjiaSellLauncher.main(LianjiaSellLauncher.java:24)
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.activemq.transport.tcp.TcpTransport.connect(TcpTransport.java:525)
+	at org.apache.activemq.transport.tcp.TcpTransport.doStart(TcpTransport.java:488)
+	at org.apache.activemq.util.ServiceSupport.start(ServiceSupport.java:55)
+	at org.apache.activemq.transport.AbstractInactivityMonitor.start(AbstractInactivityMonitor.java:169)
+	at org.apache.activemq.transport.InactivityMonitor.start(InactivityMonitor.java:52)
+	at org.apache.activemq.transport.TransportFilter.start(TransportFilter.java:64)
+	at org.apache.activemq.transport.WireFormatNegotiator.start(WireFormatNegotiator.java:72)
+	at org.apache.activemq.transport.TransportFilter.start(TransportFilter.java:64)
+	at org.apache.activemq.transport.TransportFilter.start(TransportFilter.java:64)
+	at org.apache.activemq.ActiveMQConnectionFactory.createActiveMQConnection(ActiveMQConnectionFactory.java:354)
+	... 6 common frames omitted
+2019-11-21 10:50:12  INFO us.codecraft.webmagic.Spider main: - Spider nj.lianjia.com started!
+2019-11-21 10:50:13  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-1: - downloading page success https://nj.lianjia.com/ershoufang/pg1co32/
+2019-11-21 10:50:16  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-3: - downloading page success https://nj.lianjia.com/ershoufang/103107012112.html
+2019-11-21 10:50:16  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-11: - downloading page success https://nj.lianjia.com/ershoufang/103107011617.html
+2019-11-21 10:50:16  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-10: - downloading page success https://nj.lianjia.com/ershoufang/103107011669.html
+2019-11-21 10:50:16  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-20: - downloading page success https://nj.lianjia.com/ershoufang/103107010463.html
+2019-11-21 10:50:16 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-3: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-11-21 10:50:16 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-11: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-11-21 10:50:16 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-20: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-11-21 10:50:16 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-10: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-11-21 10:50:16  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-13: - downloading page success https://nj.lianjia.com/ershoufang/103107011384.html
+2019-11-21 10:50:16  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-18: - downloading page success https://nj.lianjia.com/ershoufang/103107010720.html
+2019-11-21 10:50:16  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-12: - downloading page success https://nj.lianjia.com/ershoufang/103107011514.html
+2019-11-21 10:50:16  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-1: - downloading page success https://nj.lianjia.com/ershoufang/103107010270.html
+2019-11-21 10:50:16  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-9: - downloading page success https://nj.lianjia.com/ershoufang/103107011830.html
+2019-11-21 10:50:16  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-5: - downloading page success https://nj.lianjia.com/ershoufang/103107012057.html
+2019-11-21 10:50:16  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-8: - downloading page success https://nj.lianjia.com/ershoufang/103107011971.html
+2019-11-21 10:50:16  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-16: - downloading page success https://nj.lianjia.com/ershoufang/103107011075.html
+2019-11-21 10:50:16  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-6: - downloading page success https://nj.lianjia.com/ershoufang/103107012040.html
+2019-11-21 10:50:16  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-2: - downloading page success https://nj.lianjia.com/ershoufang/103107012165.html
+2019-11-21 10:50:16  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-14: - downloading page success https://nj.lianjia.com/ershoufang/103107011223.html
+2019-11-21 10:50:16  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-4: - downloading page success https://nj.lianjia.com/ershoufang/103107012081.html
+2019-11-21 10:50:16  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-19: - downloading page success https://nj.lianjia.com/ershoufang/103107010717.html
+2019-11-21 10:50:16  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-15: - downloading page success https://nj.lianjia.com/ershoufang/103107011149.html
+2019-11-21 10:50:16 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-13: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-11-21 10:50:16  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-7: - downloading page success https://nj.lianjia.com/ershoufang/103107011983.html
+2019-11-21 10:50:16  INFO us.codecraft.webmagic.downloader.HttpClientDownloader pool-1-thread-17: - downloading page success https://nj.lianjia.com/ershoufang/103107010910.html
+2019-11-21 10:50:16 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-1: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-11-21 10:50:16 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-12: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-11-21 10:50:16 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-14: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-11-21 10:50:16 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-8: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-11-21 10:50:16 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-18: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-11-21 10:50:16 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-9: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-11-21 10:50:16 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-16: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-11-21 10:50:16 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-5: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-11-21 10:50:16 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-17: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-11-21 10:50:16 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-7: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-11-21 10:50:16 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-6: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-11-21 10:50:16 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-2: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-11-21 10:50:16 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-4: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-11-21 10:50:16 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-15: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-11-21 10:50:16 ERROR com.house365.collector.base.pipeline.ActiveMQPipeline pool-1-thread-19: - null
+java.lang.NullPointerException: null
+	at com.house365.collector.base.pipeline.ActiveMQPipeline.sendToMQ(ActiveMQPipeline.java:49)
+	at com.house365.collector.base.pipeline.AbstractMQPipeline.process(AbstractMQPipeline.java:50)
+	at us.codecraft.webmagic.Spider.onDownloadSuccess(Spider.java:418)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:406)
+	at us.codecraft.webmagic.Spider.access$000(Spider.java:61)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:320)
+	at us.codecraft.webmagic.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)

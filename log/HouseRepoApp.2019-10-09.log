@@ -1,0 +1,44 @@
+2019-10-09 14:52:10  INFO com.house365.collector.repo.HouseRepoApp main: - Starting HouseRepoApp on wubingyusMacBookPro.local with PID 24959 (/Users/michael/IdeaProjects/365company/house-collect/house-repo/target/classes started by michael in /Users/michael/IdeaProjects/365company/house-collect)
+2019-10-09 14:52:10  INFO com.house365.collector.repo.HouseRepoApp main: - No active profile set, falling back to default profiles: default
+2019-10-09 14:52:11  INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate main: - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-09 14:52:11  INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate main: - Finished Spring Data repository scanning in 67ms. Found 3 repository interfaces.
+2019-10-09 14:52:12  INFO com.zaxxer.hikari.HikariDataSource main: - HikariPool-1 - Starting...
+2019-10-09 14:52:12  WARN com.zaxxer.hikari.util.DriverDataSource main: - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-10-09 14:52:12  INFO com.zaxxer.hikari.HikariDataSource main: - HikariPool-1 - Start completed.
+2019-10-09 14:52:12  INFO org.hibernate.jpa.internal.util.LogHelper main: - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-09 14:52:12  INFO org.hibernate.Version main: - HHH000412: Hibernate Core {5.3.10.Final}
+2019-10-09 14:52:12  INFO org.hibernate.cfg.Environment main: - HHH000206: hibernate.properties not found
+2019-10-09 14:52:12  INFO org.hibernate.annotations.common.Version main: - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-09 14:52:12  INFO org.hibernate.dialect.Dialect main: - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-10-09 14:52:13  INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean main: - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-10-09 14:52:14  INFO com.house365.collector.repo.HouseRepoApp main: - Started HouseRepoApp in 4.432 seconds (JVM running for 6.175)
+2019-10-09 14:52:19 ERROR org.springframework.jms.listener.DefaultMessageListenerContainer DefaultMessageListenerContainer-1: - Could not refresh JMS Connection for destination 'DistrictQueue' - retrying using FixedBackOff{interval=5000, currentAttempts=0, maxAttempts=unlimited}. Cause: Could not connect to broker URL: tcp://localhost:61616. Reason: java.net.ConnectException: Connection refused (Connection refused)
+2019-10-09 14:52:19 ERROR org.springframework.jms.listener.DefaultMessageListenerContainer DefaultMessageListenerContainer-1: - Could not refresh JMS Connection for destination 'SellHouseQueue' - retrying using FixedBackOff{interval=5000, currentAttempts=0, maxAttempts=unlimited}. Cause: Could not connect to broker URL: tcp://localhost:61616. Reason: java.net.ConnectException: Connection refused (Connection refused)
+2019-10-09 14:52:19 ERROR org.springframework.jms.listener.DefaultMessageListenerContainer DefaultMessageListenerContainer-1: - Could not refresh JMS Connection for destination 'BlockQueue' - retrying using FixedBackOff{interval=5000, currentAttempts=0, maxAttempts=unlimited}. Cause: Could not connect to broker URL: tcp://localhost:61616. Reason: java.net.ConnectException: Connection refused (Connection refused)
+2019-10-09 14:52:24 ERROR org.springframework.jms.listener.DefaultMessageListenerContainer DefaultMessageListenerContainer-1: - Could not refresh JMS Connection for destination 'SellHouseQueue' - retrying using FixedBackOff{interval=5000, currentAttempts=1, maxAttempts=unlimited}. Cause: Could not connect to broker URL: tcp://localhost:61616. Reason: java.net.ConnectException: Connection refused (Connection refused)
+2019-10-09 14:52:24 ERROR org.springframework.jms.listener.DefaultMessageListenerContainer DefaultMessageListenerContainer-1: - Could not refresh JMS Connection for destination 'DistrictQueue' - retrying using FixedBackOff{interval=5000, currentAttempts=1, maxAttempts=unlimited}. Cause: Could not connect to broker URL: tcp://localhost:61616. Reason: java.net.ConnectException: Connection refused (Connection refused)
+2019-10-09 14:52:24 ERROR org.springframework.jms.listener.DefaultMessageListenerContainer DefaultMessageListenerContainer-1: - Could not refresh JMS Connection for destination 'BlockQueue' - retrying using FixedBackOff{interval=5000, currentAttempts=1, maxAttempts=unlimited}. Cause: Could not connect to broker URL: tcp://localhost:61616. Reason: java.net.ConnectException: Connection refused (Connection refused)
+2019-10-09 14:52:29 ERROR org.springframework.jms.listener.DefaultMessageListenerContainer DefaultMessageListenerContainer-1: - Could not refresh JMS Connection for destination 'SellHouseQueue' - retrying using FixedBackOff{interval=5000, currentAttempts=2, maxAttempts=unlimited}. Cause: Could not connect to broker URL: tcp://localhost:61616. Reason: java.net.ConnectException: Connection refused (Connection refused)
+2019-10-09 14:52:29 ERROR org.springframework.jms.listener.DefaultMessageListenerContainer DefaultMessageListenerContainer-1: - Could not refresh JMS Connection for destination 'DistrictQueue' - retrying using FixedBackOff{interval=5000, currentAttempts=2, maxAttempts=unlimited}. Cause: Could not connect to broker URL: tcp://localhost:61616. Reason: java.net.ConnectException: Connection refused (Connection refused)
+2019-10-09 14:52:29 ERROR org.springframework.jms.listener.DefaultMessageListenerContainer DefaultMessageListenerContainer-1: - Could not refresh JMS Connection for destination 'BlockQueue' - retrying using FixedBackOff{interval=5000, currentAttempts=2, maxAttempts=unlimited}. Cause: Could not connect to broker URL: tcp://localhost:61616. Reason: java.net.ConnectException: Connection refused (Connection refused)
+2019-10-09 14:52:32  INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean Thread-13: - Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-10-09 14:52:32  INFO com.zaxxer.hikari.HikariDataSource Thread-13: - HikariPool-1 - Shutdown initiated...
+2019-10-09 14:52:32  INFO com.zaxxer.hikari.HikariDataSource Thread-13: - HikariPool-1 - Shutdown completed.
+2019-10-09 14:52:48  INFO com.house365.collector.repo.HouseRepoApp main: - Starting HouseRepoApp on wubingyusMacBookPro.local with PID 24970 (/Users/michael/IdeaProjects/365company/house-collect/house-repo/target/classes started by michael in /Users/michael/IdeaProjects/365company/house-collect)
+2019-10-09 14:52:48  INFO com.house365.collector.repo.HouseRepoApp main: - No active profile set, falling back to default profiles: default
+2019-10-09 14:52:49  INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate main: - Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-10-09 14:52:49  INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate main: - Finished Spring Data repository scanning in 74ms. Found 3 repository interfaces.
+2019-10-09 14:52:50  INFO com.zaxxer.hikari.HikariDataSource main: - HikariPool-1 - Starting...
+2019-10-09 14:52:50  WARN com.zaxxer.hikari.util.DriverDataSource main: - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-10-09 14:52:50  INFO com.zaxxer.hikari.HikariDataSource main: - HikariPool-1 - Start completed.
+2019-10-09 14:52:50  INFO org.hibernate.jpa.internal.util.LogHelper main: - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-10-09 14:52:50  INFO org.hibernate.Version main: - HHH000412: Hibernate Core {5.3.10.Final}
+2019-10-09 14:52:50  INFO org.hibernate.cfg.Environment main: - HHH000206: hibernate.properties not found
+2019-10-09 14:52:50  INFO org.hibernate.annotations.common.Version main: - HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-10-09 14:52:50  INFO org.hibernate.dialect.Dialect main: - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-10-09 14:52:51  INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean main: - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-10-09 14:52:52  INFO com.house365.collector.repo.HouseRepoApp main: - Started HouseRepoApp in 3.596 seconds (JVM running for 4.278)
