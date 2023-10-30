@@ -46,7 +46,7 @@
         <webmagic.version>0.7.3</webmagic.version>
         <mysql.driver.version>8.0.16</mysql.driver.version>
         <commons.logging.version>1.2</commons.logging.version>
-        <activemq.client.version>5.15.9</activemq.client.version>
+        <activemq.client.version>5.15.16</activemq.client.version>
         <okhttp.version>3.14.2</okhttp.version>
         <dubbo.version>2.7.1</dubbo.version>
         <springboot.version>2.1.5.RELEASE</springboot.version>
